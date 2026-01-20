@@ -24,6 +24,16 @@ This is a **Twitter Clone** web application developed by me as a learning projec
 
 Follow these steps to run the project locally:
 
+### Env
+- Paste this filenand fill details in .env
+- MONGO_URI=
+- PORT=
+- JWT_SECRET=
+- NODE_ENV=
+- CLOUDINARY_API_KEY=
+- CLOUDINARY_API_SECRET=
+- CLOUDINARY_CLOUD_NAME=
+
 ### Backend
 
 <code>
@@ -69,3 +79,4 @@ This project is built for learning purposes and demonstrates:
 ## License
 
 This project is for personal and educational use.
+
